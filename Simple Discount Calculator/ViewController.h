@@ -10,4 +10,11 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITextField *priceField;
+@property (weak, nonatomic) IBOutlet UITextField *discountField1;
+@property (weak, nonatomic) IBOutlet UITextField *discountField2;
+@property (weak, nonatomic) IBOutlet UITextField *salesTaxField;
+
+
+
 @end

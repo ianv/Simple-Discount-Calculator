@@ -85,8 +85,6 @@
 		1617A4BC16EFEFE3004E8E2F /* Simple Discount Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				1617A4C516EFEFE3004E8E2F /* AppDelegate.h */,
-				1617A4C616EFEFE3004E8E2F /* AppDelegate.m */,
 				1617A4CE16EFEFE3004E8E2F /* MainStoryboard_iPhone.storyboard */,
 				1617A4D116EFEFE3004E8E2F /* MainStoryboard_iPad.storyboard */,
 				1617A4D416EFEFE3004E8E2F /* ViewController.h */,
@@ -99,6 +97,8 @@
 		1617A4BD16EFEFE3004E8E2F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1617A4C516EFEFE3004E8E2F /* AppDelegate.h */,
+				1617A4C616EFEFE3004E8E2F /* AppDelegate.m */,
 				1617A4BE16EFEFE3004E8E2F /* Simple Discount Calculator-Info.plist */,
 				1617A4BF16EFEFE3004E8E2F /* InfoPlist.strings */,
 				1617A4C216EFEFE3004E8E2F /* main.m */,
