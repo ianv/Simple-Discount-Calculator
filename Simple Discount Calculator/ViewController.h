@@ -27,5 +27,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *salesTaxLabel;
 @property (weak, nonatomic) IBOutlet UILabel *totalLabel;
 
-@property (weak, nonatomic) IBOutlet UILabel *hintLabel;
+-(IBAction)calculateTotal:(UIButton*)sender;
+-(IBAction)defaultDiscount:(UIButton*)sender;
+
 @end
